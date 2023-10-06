@@ -2,7 +2,7 @@
 
 ---
 
-**Write a function that accepts an age as a parameter and checks if the person is a child (0-12), teenager (13-19), adult (20-64), or senior (65+).**
+**1) Write a function that accepts an age as a parameter and checks if the person is a child (0-12), teenager (13-19), adult (20-64), or senior (65+).**
 
 Example Input: 15
 Example Output: "teenager"
@@ -19,7 +19,7 @@ Example Output: "Consider joining a sports team at school."
 
 ---
 
-**Design a function that determines if a given year is a leap year.**
+**2) Design a function that determines if a given year is a leap year.**
 
 Example Input: 2000
 Example Output: true
@@ -36,7 +36,7 @@ Example Output: 29
 
 ---
 
-**Create a function to determine the time of day (morning, afternoon, evening, night) based on a 24-hour format hour input.**
+**3) Create a function to determine the time of day (morning, afternoon, evening, night) based on a 24-hour format hour input.**
 
 Example Input: 17
 Example Output: "evening"
